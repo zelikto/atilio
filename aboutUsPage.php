@@ -301,7 +301,7 @@ form .signup-link a:hover{
          <h1>Contact Us</h1>
         <p> Lorem ipsum dolor sit amet,<br>
           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
-           <form action="process.php" method="post">
+           <form action="processs.php" method="post">
         
         <div class="field">
           <input type="text" name="Email" required>
